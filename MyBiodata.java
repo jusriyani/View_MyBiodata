@@ -8,9 +8,9 @@ public class MyBiodata {
         String hobi = " Watching a movie";
         String makananKesukaan = " Mie ayam";
         System.out.println("*****************************************");
-        System.out.println("First Name" + "\t" + "\t" + ":" + firstName + "\n" + "Last Name" + "\t" + "\t" + ":" + lastName + "\n" 
-        + "Age" + "\t" + "\t" + "\t" + ": " + Integer.toString(age) + "\n" + "Address" + "\t" + "\t" + "\t" + ":" + address + "\n" + 
-        "Phone Number" + "\t" + "\t" + ":" + phoneNumber + "\n" + "Hobi" + "\t" + "\t" + "\t" + ":" + hobi + "\n" +
+        System.out.println("First Name" + "\t" + "\t" + "\t" + ":" + firstName + "\n" + "Last Name" + "\t" + "\t" + "\t" + ":" + lastName + "\n" 
+        + "Age" + "\t" + "\t" + "\t" + "\t" + "\t" + ": " + Integer.toString(age) + "\n" + "Address" + "\t" + "\t" + "\t" + "\t" + ":" + address + "\n" + 
+        "Phone Number" + "\t" + "\t" + ":" + phoneNumber + "\n" + "Hobi" + "\t" + "\t" + "\t" + "\t" + ":" + hobi + "\n" +
         "Makanan Kesukaan" + "\t" + ":" + makananKesukaan);
         System.out.println("*****************************************");
     }
